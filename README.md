@@ -1,4 +1,4 @@
 # blainehill2001.github.io
 Personal Website
 
-Visit it [here](blainehill2001.github.io)!
+Visit it [here](https://blainehill2001.github.io/)!
